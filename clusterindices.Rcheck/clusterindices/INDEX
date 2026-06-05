@@ -1,0 +1,9 @@
+cikmeans                The K-means algorithm with cluster indices
+                        computed
+clust.plot              Visualization of the K-means algorithm results
+clusterindices-package
+                        Cluster Validity Indices
+index_max               Cluster indices (maximal valued) for the
+                        K-means algorithm
+index_min               Cluster indices (minimial valued) for the
+                        K-means algorithm

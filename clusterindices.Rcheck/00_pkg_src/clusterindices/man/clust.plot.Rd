@@ -31,7 +31,7 @@ A plot.
 
 \references{
 Tsagris M. and Kontemeniotis N. (2025). Simplicial clustering using the \eqn{\alpha}--transformation.
-Lobachevskii Journal of Mathematics, 46: 6471--6482.
+Lobachevskii Journal of Mathematics, 46: 6471–-6482.
 https://arxiv.org/pdf/2509.05945.
 
 Garcia-Escudero Luis A., Gordaliza Alfonso, Matran Carlos, Mayo-Iscar Agustin. (2008). A general
