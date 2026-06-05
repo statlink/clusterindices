@@ -56,7 +56,7 @@ Nikolaos Kontemeniotis \email{kontemeniotisn@gmail.com}.
 
 \examples{
 y <- as.matrix(iris[, 1:4])
-mod <- cikmeans( y, ncl = 3, a = 1 )
-clust.plot(mod[[ 1 ]], z )
+mod <- kmeans(y, 3)
+clust.plot(mod, y )
 }
 
